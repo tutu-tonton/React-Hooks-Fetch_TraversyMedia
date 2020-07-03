@@ -2,7 +2,7 @@
 
 :arrow_forward: [Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo&t=277s)
 
-![test]([Jul-03-2020 17-25-23.gif](https://github.com/tutu-tonton/React-Hooks-Fetch_TraversyMedia/blob/master/Jul-03-2020%2017-25-23.gif)
+![test]([Jul-03-2020 17-25-23.gif](https://github.com/tutu-tonton/React-Hooks-Fetch_TraversyMedia/blob/master/Jul-03-2020%2017-25-23.gif))
 
 ---
 
