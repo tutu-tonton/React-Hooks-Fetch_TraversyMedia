@@ -4,6 +4,8 @@
 
 ![test](https://github.com/tutu-tonton/React-Hooks-Fetch_TraversyMedia/blob/master/Jul-03-2020%2017-25-23.gif)
 
+![note](IMG_2A50DB3F8596-1.jpeg)
+
 ---
 
 > データフェッチしてきて、表示する
